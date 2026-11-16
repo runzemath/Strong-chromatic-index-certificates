@@ -1,0 +1,15 @@
+{
+  "threshold": "0.821",
+  "bound": "1.642",
+  "cap": 820956817958,
+  "phases": 949,
+  "boxes": 169290374,
+  "method": 10,
+  "local_certificates": [
+    "density_0.82100_0.380.json",
+    "density_0.82100_0.500.json",
+    "density_0.82100_0.600.json",
+    "density_0.82100_0.640.json",
+    "density_0.82100_0.665.json"
+  ]
+}
